@@ -34,6 +34,16 @@ public:
         return dp[0];
     }
 
+    int spaceOpt(int n){
+        int a = 1, b = 1;
+        for(int i=n-2 ; i>=0 ; i--){
+            int curr = a + b;
+            a = b;
+            b = curr;
+        }
+        return b;
+    }
+
 
     int climbStairs(int n) {
          int dp[n] ;
@@ -41,7 +51,8 @@ public:
             dp[i] = -1;
          }
     //  int ans = solve(n,0,dp);
-     int ans = tabSolve(n);
+    // int ans = tabSolve(n);
+    int ans = spaceOpt(n);
       return ans;
     }
 };
