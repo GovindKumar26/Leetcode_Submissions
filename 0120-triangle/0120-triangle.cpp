@@ -29,10 +29,31 @@ public:
           return dp[0][0];
     }
 
+    int spaceOpt(int i, int j, vector<vector<int>>&triangle){
+        int n = i;
+        vector<int>front(n,0);
+        for(int i=0 ; i<n ; i++) front[i] = triangle[n-1][i];
+
+         for(int i=n-2 ; i>=0 ; i--){
+             vector<int>curr(n,0);
+            for(int j=i ; j>=0 ; j--){
+             
+             int down = triangle[i][j] + front[j];
+            int diagonal = triangle[i][j] + front[j+1];
+
+                curr[j] = min(down,diagonal);
+            }
+            front = curr;
+          }
+          return front[0];
+
+    }
+
     int minimumTotal(vector<vector<int>>& triangle) {
         int n = triangle.size();
         vector<vector<int>>dp(n,vector<int>(n,-1));
        // return solve(0,0,triangle,n,dp);
-       return tab(n,n,triangle);
+      // return tab(n,n,triangle);
+       return spaceOpt(n,n,triangle);
     }
 };
