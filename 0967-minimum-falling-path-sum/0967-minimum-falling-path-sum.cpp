@@ -16,36 +16,69 @@ public:
      return dp[i][j];
     }
 
+    
+
     int minFallingPathSum(vector<vector<int>>& matrix) {
         int n =   matrix.size();
         int m = matrix[0].size();
-        vector<vector<int>>dp(n,vector<int>(m,-1));
-
-        for(int i=0 ; i<n ; i++){
-            dp[0][i] = matrix[0][i];
+        vector<int>prev(m,0),curr(m,0);
+         for(int i=0 ; i<n ; i++){
+            prev[i] = matrix[0][i];
         }
 
-        for(int i=1 ; i<n ; i++){
+         for(int i=1 ; i<n ; i++){
             for(int j=0 ; j<m ; j++){
-                 int up = dp[i-1][j] + matrix[i][j];
+                 int up = prev[j] + matrix[i][j];
                  int right = matrix[i][j];
 
-             if(j+1<m)  right = dp[i-1][j+1] + right;
+             if(j+1<m)  right = prev[j+1] + right;
              else  right = right + 1e8;
                  
                  int left = matrix[i][j];
-                if(j-1>=0)  left = dp[i-1][j-1] + left;
+                if(j-1>=0)  left = prev[j-1] + left;
                   else left = left + 1e8;
 
-                   dp[i][j] = min(up,min(right,left));
+                   curr[j] = min(up,min(right,left));
             }
+            prev = curr;
         }
 
-        int maximum = 1e8;
+         int maximum = 1e8;
         for(int j=0 ; j<m ; j++){
-            int ans = dp[n-1][j];
+            int ans = prev[j];
             maximum = min(maximum,ans);
         }
         return maximum;
+
+
+       
+        // vector<vector<int>>dp(n,vector<int>(m,-1));
+
+        // for(int i=0 ; i<n ; i++){
+        //     dp[0][i] = matrix[0][i];
+        // }
+
+        // for(int i=1 ; i<n ; i++){
+        //     for(int j=0 ; j<m ; j++){
+        //          int up = dp[i-1][j] + matrix[i][j];
+        //          int right = matrix[i][j];
+
+        //      if(j+1<m)  right = dp[i-1][j+1] + right;
+        //      else  right = right + 1e8;
+                 
+        //          int left = matrix[i][j];
+        //         if(j-1>=0)  left = prev[j-1] + left;
+        //           else left = left + 1e8;
+
+        //            dp[i][j] = min(up,min(right,left));
+        //     }
+        // }
+
+        // int maximum = 1e8;
+        // for(int j=0 ; j<m ; j++){
+        //     int ans = dp[n-1][j];
+        //     maximum = min(maximum,ans);
+        // }
+        // return maximum;
     }
 };
