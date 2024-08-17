@@ -52,7 +52,8 @@ public:
     int uniquePaths(int m, int n) {
         vector<vector<int>>dp(m,vector<int>(n,-1));
        // return solve(m-1,n-1,dp);
-       return tabSolve(m,n);
+      // return tabSolve(m,n);
+       return spaceOpt(m,n);
 
     }
 };
