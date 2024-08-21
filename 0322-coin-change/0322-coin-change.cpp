@@ -45,8 +45,33 @@ public:
         return dp[n-1][amt];
     }
 
+    int spaceOpt(vector<int>&coins, int amt){
+        int n = coins.size();
+        vector<int>prev(amt+1,1e9);
 
-    
+        for(int i=0 ; i<=amt ; i++){
+           if(i%coins[0]==0) prev[i] = i/coins[0];
+            else prev[i] = 1e9;
+        }
+        
+         for(int i=1 ; i<n ; i++){
+            vector<int>curr(amt+1,1e9);
+            for(int a=0 ; a<=amt ; a++){
+              int notPick = 0 + prev[a];
+              int pick = 1e9;
+          if(a>=coins[i]){
+                pick = 1 + curr[a-coins[i]];
+          }
+        
+
+         curr[a] = min(pick, notPick);
+            }
+            prev = curr;
+        }
+        return prev[amt];
+
+
+    }   
 
 
     
@@ -54,7 +79,8 @@ public:
          int n = coins.size();
          vector<vector<int>>dp(n,vector<int>(amount+1,-1));
         // int ans = memo(n-1, coins,amount, dp);
-           int ans = tab(coins, amount);
+          // int ans = tab(coins, amount);
+           int ans = spaceOpt(coins, amount);
          if(ans>=1e9) return -1;
          return ans;
     }
