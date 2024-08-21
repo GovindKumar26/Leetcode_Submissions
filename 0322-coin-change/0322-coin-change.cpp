@@ -80,7 +80,7 @@ public:
          vector<vector<int>>dp(n,vector<int>(amount+1,-1));
         // int ans = memo(n-1, coins,amount, dp);
           // int ans = tab(coins, amount);
-           int ans = spaceOpt(coins, amount);
+          int ans = spaceOpt(coins, amount);
          if(ans>=1e9) return -1;
          return ans;
     }
