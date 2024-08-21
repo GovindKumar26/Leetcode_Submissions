@@ -47,7 +47,7 @@ public:
 
     int spaceOpt(vector<int>&coins, int amt){
         int n = coins.size();
-        vector<int>prev(amt+1,1e9);
+        vector<int>prev(amt+1,0);
 
         for(int i=0 ; i<=amt ; i++){
            if(i%coins[0]==0) prev[i] = i/coins[0];
@@ -55,7 +55,7 @@ public:
         }
         
          for(int i=1 ; i<n ; i++){
-            vector<int>curr(amt+1,1e9);
+            vector<int>curr(amt+1,0);
             for(int a=0 ; a<=amt ; a++){
               int notPick = 0 + prev[a];
               int pick = 1e9;
