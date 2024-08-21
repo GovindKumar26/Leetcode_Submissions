@@ -20,10 +20,34 @@ public:
           
     }
 
+    int tab(vector<int>&coins, int amt){
+        int n = coins.size();
+        vector<vector<int>>dp(n, vector<int>(amt+1,-1));
+        
+        for(int a = 0 ; a<=amt ; a++){
+            if(a%coins[0]==0) dp[0][a] = 1;
+            else dp[0][a] = 0;
+        }
+
+        for(int i=1 ; i<n ; i++){
+            for(int a=0 ; a<=amt ; a++){
+              int notPick = 0 + dp[i-1][a];
+              int pick = 0;
+          if(a>=coins[i]){
+                pick =  dp[i][a-coins[i]];
+          }
+        
+
+         dp[i][a] =pick + notPick;
+            }
+        }
+        return dp[n-1][amt];
+    }
 
     int change(int amount, vector<int>& coins) {
           int n = coins.size();
          vector<vector<int>>dp(n,vector<int>(amount+1,-1));
-        return memo(n-1, coins,amount, dp);
+     //   return memo(n-1, coins,amount, dp);
+        return tab(coins, amount);
     }
 };
