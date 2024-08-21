@@ -75,8 +75,8 @@ public:
     int change(int amount, vector<int>& coins) {
           int n = coins.size();
          vector<vector<int>>dp(n,vector<int>(amount+1,-1));
-     //   return memo(n-1, coins,amount, dp);
+        return memo(n-1, coins,amount, dp);
       //  return tab(coins, amount);
-      return spaceOpt(coins, amount);
+     // return spaceOpt(coins, amount);
     }
 };
