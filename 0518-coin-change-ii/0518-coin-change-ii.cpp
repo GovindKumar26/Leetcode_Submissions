@@ -44,10 +44,39 @@ public:
         return dp[n-1][amt];
     }
 
+     int spaceOpt(vector<int>&coins, int amt){
+        int n = coins.size();
+        vector<int>prev(amt+1,0);
+
+        for(int i=0 ; i<=amt ; i++){
+           if(i%coins[0]==0) prev[i] = 1;
+            else prev[i] = 0;
+        }
+        
+         for(int i=1 ; i<n ; i++){
+            vector<int>curr(amt+1,0);
+            for(int a=0 ; a<=amt ; a++){
+              int notPick = 0 + prev[a];
+              int pick = 0;
+          if(a>=coins[i]){
+                pick = curr[a-coins[i]];
+          }
+        
+
+         curr[a] = pick + notPick;
+            }
+            prev = curr;
+        }
+        return prev[amt];
+
+
+    }   
+
     int change(int amount, vector<int>& coins) {
           int n = coins.size();
          vector<vector<int>>dp(n,vector<int>(amount+1,-1));
      //   return memo(n-1, coins,amount, dp);
-        return tab(coins, amount);
+      //  return tab(coins, amount);
+      return spaceOpt(coins, amount);
     }
 };
