@@ -2,9 +2,7 @@ class Solution {
 public:
 
         int memo(int i, vector<int>&coins, int amt, vector<vector<int>>&dp){
-             if(amt==0) {
-            return 1;
-          }
+        
           if(i==0){
             if(amt%coins[0]==0) return 1; 
             else return 0;
