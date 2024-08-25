@@ -56,6 +56,7 @@ class Solution {
      }
 public:
     int longestPalindromeSubseq(string s) {
+       
         string sRev(s.length(),'#');
         int idx = s.length()-1;
         for(auto a : s){
@@ -64,6 +65,7 @@ public:
 
         int size1 = s.length();
         int size2 = sRev.length();
+        vector<vector<int>>dp(size1+1, vector<int>(size2+1, -1));
       //  return memo(size1-1, size2-1, s, sRev, dp);
           return tab(s, sRev);
           // return spaceOpt(s, sRev);
