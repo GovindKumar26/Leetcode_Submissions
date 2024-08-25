@@ -31,15 +31,36 @@ public:
             }
         }
 
-        return dp[n][m];
+        return (int)dp[n][m];
          
 
     }
+
+    int spaceOpt(string s, string t){
+        int n = s.length();
+        int m = t.length();
+        vector<double>prev(m+1,0), curr(m+1,0);
+        prev[0] = curr[0] = 1;
+
+        for(int i=1 ; i<=n ; i++){
+            for(int j=1 ; j<=m ; j++){
+                if(s[i-1]==t[j-1]){
+                    curr[j] = prev[j-1] + prev[j];
+                } else{
+                    curr[j] = prev[j];
+                }
+            }
+            prev = curr;
+        }
+        return (int)prev[m];
+    }
+
     int numDistinct(string s, string t) {
         int n = s.length();
         int m = t.length();
         vector<vector<int>>dp(n, vector<int>(m,-1));
      //  return memo(n-1, m-1, s, t, dp);
-       return tab(s,t);
+     //  return tab(s,t);
+       return spaceOpt(s, t);
     }
 };
