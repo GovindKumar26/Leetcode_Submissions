@@ -67,8 +67,8 @@ public:
         int size2 = sRev.length();
         vector<vector<int>>dp(size1+1, vector<int>(size2+1, -1));
       //  return memo(size1-1, size2-1, s, sRev, dp);
-          return tab(s, sRev);
-          // return spaceOpt(s, sRev);
+        //  return tab(s, sRev);
+           return spaceOpt(s, sRev);
         
     }
 };
