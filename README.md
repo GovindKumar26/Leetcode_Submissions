@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0518-coin-change-ii) |
 | [0967-minimum-falling-path-sum](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0967-minimum-falling-path-sum) |
+| [1170-shortest-common-supersequence](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1559-cherry-pickup-ii](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/1559-cherry-pickup-ii) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0516-longest-palindromic-subsequence](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0516-longest-palindromic-subsequence) |
+| [1170-shortest-common-supersequence](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 <!---LeetCode Topics End-->
