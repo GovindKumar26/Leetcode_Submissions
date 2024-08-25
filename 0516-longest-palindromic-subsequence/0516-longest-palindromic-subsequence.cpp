@@ -65,7 +65,7 @@ public:
         int size1 = s.length();
         int size2 = sRev.length();
       //  return memo(size1-1, size2-1, s, sRev, dp);
-       //   return tab(text1, text2);
+          return tab(s, sRev);
            return spaceOpt(s, sRev);
         
     }
