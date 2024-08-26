@@ -6,8 +6,8 @@ public:
         int maxProfit = 0;
 
         for(int i=1 ; i<n ; i++){
-            int cost = prices[i] - mini;
-            maxProfit = max(maxProfit, cost);
+            int profit = prices[i] - mini;
+            maxProfit = max(maxProfit, profit);
             mini = min(mini, prices[i]);
         }
 
