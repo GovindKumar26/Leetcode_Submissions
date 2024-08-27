@@ -49,14 +49,41 @@ public:
         return dp[0][1][2];
     }
 
-    // int spaceOpt(vector<int>&prices){
+    int spaceOpt(vector<int>&prices){
+           vector<vector<int>>after(2, vector<int>(3, 0));
+           vector<vector<int>>curr(2, vector<int>(3, 0));
+           int n = prices.size();
+            for (int i = n - 1; i >= 0; i--) {
+            for (int buy = 0; buy <=1; buy++) {
+                for (int cap = 1; cap < 3; cap++) {
+                    int profit = 0;
+                    if (buy==1) {
+                        profit =
+                            max(-prices[i] + after[0][cap],
+                              after[1][cap]);
+                    } else {
+                        profit = max(prices[i] +
+                                        after[1][cap-1],
+                                   after[0][cap]);
+                    }
 
-    // }
+                     curr[buy][cap] = profit;
+                }
+              
+            }
+              after = curr;
+        }
+
+        return after[1][2];
+
+
+    }
 
     int maxProfit(vector<int>& prices) {
         int n = prices.size();
         vector<vector<vector<int>>> dp(
             n, vector<vector<int>>(2, vector<int>(3, -1)));
+            return spaceOpt(prices);
             return tab(prices);
        // return memo(0, 1, prices, n, 2, dp);
     }
