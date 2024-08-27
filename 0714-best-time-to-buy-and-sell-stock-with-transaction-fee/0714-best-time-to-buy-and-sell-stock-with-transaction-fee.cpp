@@ -69,7 +69,7 @@ public:
          int n = prices.size();
         vector<vector<int>>dp(n, vector<int>(2,-1));
      //   return spaceOpt(prices, fee);
-        return tab(prices, fee);
-      //  return memo(0,1, prices, n, fee, dp);
+       // return tab(prices, fee);
+         return memo(0,1, prices, n, fee, dp);
     }
 };
