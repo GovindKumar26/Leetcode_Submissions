@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0115-distinct-subsequences) |
 | [0516-longest-palindromic-subsequence](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0516-longest-palindromic-subsequence) |
+| [0567-permutation-in-string](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0567-permutation-in-string) |
 | [1170-shortest-common-supersequence](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -125,4 +126,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0044-wildcard-matching) |
+## Hash Table
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0567-permutation-in-string) |
+## Two Pointers
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0567-permutation-in-string) |
+## Sliding Window
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
