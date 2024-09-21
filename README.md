@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0040-combination-sum-ii](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0041-first-missing-positive) |
 | [0063-unique-paths-ii](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0063-unique-paths-ii) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0300-longest-increasing-subsequence](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0300-longest-increasing-subsequence) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Heap (Priority Queue)
