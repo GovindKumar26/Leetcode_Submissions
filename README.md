@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0040-combination-sum-ii) |
+| [0041-first-missing-positive](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0041-first-missing-positive) |
 | [0063-unique-paths-ii](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0120-triangle) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0041-first-missing-positive) |
 | [0567-permutation-in-string](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0567-permutation-in-string) |
 ## Two Pointers
 |  |
