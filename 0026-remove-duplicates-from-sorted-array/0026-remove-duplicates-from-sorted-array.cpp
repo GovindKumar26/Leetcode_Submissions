@@ -1,6 +1,20 @@
 class Solution {
 public:
+
+
+    int twoPtr(vector<int>&arr){
+        int n = arr.size();
+        int i=0;
+        for(int j=1 ; j<n ; j++){
+            if(arr[j]!=arr[i]){
+                arr[i+1] = arr[j];
+                i++;
+            }
+        }
+        return i+1;
+    }
     int removeDuplicates(vector<int>& nums) {
+        return twoPtr(nums);
         int n =nums.size();
         vector<char>v(n,'_');
         int j=0;
