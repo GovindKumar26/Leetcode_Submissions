@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0322-coin-change) |
+| [0349-intersection-of-two-arrays](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0349-intersection-of-two-arrays) |
 | [0354-russian-doll-envelopes](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0354-russian-doll-envelopes) |
 | [0368-largest-divisible-subset](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0416-partition-equal-subset-sum) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0074-search-a-2d-matrix) |
 | [0300-longest-increasing-subsequence](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0300-longest-increasing-subsequence) |
+| [0349-intersection-of-two-arrays](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0349-intersection-of-two-arrays) |
 | [0354-russian-doll-envelopes](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0354-russian-doll-envelopes) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Heap (Priority Queue)
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0041-first-missing-positive) |
+| [0349-intersection-of-two-arrays](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0349-intersection-of-two-arrays) |
 | [0567-permutation-in-string](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0567-permutation-in-string) |
 | [1129-longest-string-chain](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/1129-longest-string-chain) |
 ## Two Pointers
@@ -165,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0349-intersection-of-two-arrays) |
 | [0567-permutation-in-string](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0567-permutation-in-string) |
 | [1129-longest-string-chain](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/1129-longest-string-chain) |
 ## Sliding Window
@@ -183,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0349-intersection-of-two-arrays](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0349-intersection-of-two-arrays) |
 | [0354-russian-doll-envelopes](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0354-russian-doll-envelopes) |
 | [0368-largest-divisible-subset](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0368-largest-divisible-subset) |
 | [1129-longest-string-chain](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/1129-longest-string-chain) |
