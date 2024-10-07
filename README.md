@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1129-longest-string-chain](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/1129-longest-string-chain) |
 | [1559-cherry-pickup-ii](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/1559-cherry-pickup-ii) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/1669-minimum-cost-to-cut-a-stick) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0349-intersection-of-two-arrays) |
 | [0567-permutation-in-string](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0567-permutation-in-string) |
 | [1129-longest-string-chain](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/1129-longest-string-chain) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Sliding Window
 |  |
 | ------- |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0054-spiral-matrix) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Divide and Conquer
 |  |
 | ------- |
