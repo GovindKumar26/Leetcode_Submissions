@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0518-coin-change-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0560-subarray-sum-equals-k) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0967-minimum-falling-path-sum](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0967-minimum-falling-path-sum) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0349-intersection-of-two-arrays) |
+| [0560-subarray-sum-equals-k](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0567-permutation-in-string) |
 | [1129-longest-string-chain](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/1129-longest-string-chain) |
 ## Two Pointers
@@ -249,4 +251,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0128-longest-consecutive-sequence) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
