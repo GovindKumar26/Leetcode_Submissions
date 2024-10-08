@@ -1,31 +1,29 @@
 class Solution {
 public:
     void nextPermutation(vector<int>& nums) {
-        int index = -1;
-        int n = nums.size() - 2;
-        
-        // Step 1: Find the first decreasing element from the right
-        for (int i = n; i >= 0; i--) {
-            if (nums[i] < nums[i + 1]) {
-                index = i;
+        int ind = -1;
+        int n=nums.size();
+        if(n==1) return;
+        for(int i=n-2 ; i>=0 ; i--){
+            if(nums[i+1]>nums[i]) {
+            ind = i;
+            break;
+            }
+        }
+
+        if(ind==-1) {
+        reverse(nums.begin(), nums.end());
+        return;
+        }
+
+        for(int i=n-1 ; i>ind ; i--){
+            if(nums[i]>nums[ind]){
+                swap(nums[i], nums[ind]);
                 break;
             }
         }
-        
-        // Step 2: If no such element exists, reverse the array
-        if (index == -1) {
-            reverse(nums.begin(), nums.end());
-        } else {
-            // Step 3: Find the smallest element larger than nums[index] and swap
-            for (int i = nums.size() - 1; i > index; i--) {
-                if (nums[i] > nums[index]) {
-                    swap(nums[i], nums[index]);
-                    break;
-                }
-            }
-            // Step 4: Reverse the elements after the index
-            reverse(nums.begin() + index + 1, nums.end());
-        }
+
+        reverse(nums.begin()+ind+1, nums.end());
        
     }
 };
