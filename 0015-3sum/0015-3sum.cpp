@@ -13,7 +13,9 @@ public:
                 if (nums[i] + nums[j] + nums[k] == 0) {
                     set1.insert({nums[i], nums[k], nums[j]});
                     j++;
-                    k--;
+                    while(j<k && nums[j]==nums[j-1]) j++;
+                    k--;                   
+                    while(j<k && nums[k]==nums[k+1]) k--;
 
                 } else if (nums[i] + nums[k] + nums[j] > 0) {
                     k--;
