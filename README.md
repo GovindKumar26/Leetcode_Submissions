@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1559-cherry-pickup-ii](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/1559-cherry-pickup-ii) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/2271-rearrange-array-elements-by-sign) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0567-permutation-in-string) |
 | [1129-longest-string-chain](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/1129-longest-string-chain) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Two Pointers
 |  |
 | ------- |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0229-majority-element-ii) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Union Find
 |  |
 | ------- |
