@@ -15,6 +15,7 @@ public:
                 return nums[mid];
             }
 
+            // we are in left 
             if (mid % 2 == 1 && nums[mid] == nums[mid - 1] ||
                 (mid % 2 == 0 && nums[mid] == nums[mid + 1])) {
                 low = mid + 1;
