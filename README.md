@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0673-number-of-longest-increasing-subsequence](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0792-binary-search](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0792-binary-search) |
+| [0907-koko-eating-bananas](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0907-koko-eating-bananas) |
 | [0967-minimum-falling-path-sum](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0967-minimum-falling-path-sum) |
 | [1129-longest-string-chain](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/1129-longest-string-chain) |
 | [1559-cherry-pickup-ii](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/1559-cherry-pickup-ii) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0792-binary-search](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0792-binary-search) |
+| [0907-koko-eating-bananas](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0907-koko-eating-bananas) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
