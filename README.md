@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0070-climbing-stairs) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0044-wildcard-matching) |
+| [0050-powx-n](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0050-powx-n) |
 ## Hash Table
 |  |
 | ------- |
