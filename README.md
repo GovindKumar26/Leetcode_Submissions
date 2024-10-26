@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1559-cherry-pickup-ii](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/1559-cherry-pickup-ii) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1646-kth-missing-positive-number](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/1646-kth-missing-positive-number) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1646-kth-missing-positive-number](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/1646-kth-missing-positive-number) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
