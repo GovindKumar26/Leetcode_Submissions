@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0349-intersection-of-two-arrays) |
 | [0354-russian-doll-envelopes](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0354-russian-doll-envelopes) |
 | [0368-largest-divisible-subset](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0368-largest-divisible-subset) |
+| [0410-split-array-largest-sum](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0416-partition-equal-subset-sum) |
 | [0485-max-consecutive-ones](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0493-reverse-pairs) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0322-coin-change) |
 | [0354-russian-doll-envelopes](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0354-russian-doll-envelopes) |
 | [0368-largest-divisible-subset](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0368-largest-divisible-subset) |
+| [0410-split-array-largest-sum](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0516-longest-palindromic-subsequence) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0349-intersection-of-two-arrays) |
 | [0354-russian-doll-envelopes](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0354-russian-doll-envelopes) |
+| [0410-split-array-largest-sum](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -208,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0044-wildcard-matching](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0044-wildcard-matching) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0410-split-array-largest-sum](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0410-split-array-largest-sum) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 ## Recursion
 |  |
@@ -309,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0560-subarray-sum-equals-k) |
 ## Merge Sort
 |  |
