@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1646-kth-missing-positive-number](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/1646-kth-missing-positive-number) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2047-find-a-peak-element-ii](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/2047-find-a-peak-element-ii) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2737-row-with-maximum-ones](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/2737-row-with-maximum-ones) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0967-minimum-falling-path-sum](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0967-minimum-falling-path-sum) |
 | [1559-cherry-pickup-ii](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/1559-cherry-pickup-ii) |
+| [2047-find-a-peak-element-ii](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/2047-find-a-peak-element-ii) |
 | [2737-row-with-maximum-ones](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/2737-row-with-maximum-ones) |
 ## Tree
 |  |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/1646-kth-missing-positive-number) |
+| [2047-find-a-peak-element-ii](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/2047-find-a-peak-element-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
