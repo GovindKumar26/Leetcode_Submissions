@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0222-count-complete-tree-nodes) |
 | [0257-binary-tree-paths](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0662-maximum-width-of-binary-tree) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0162-find-peak-element) |
+| [0222-count-complete-tree-nodes](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0300-longest-increasing-subsequence) |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0222-count-complete-tree-nodes) |
 | [0257-binary-tree-paths](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0662-maximum-width-of-binary-tree) |
@@ -354,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0136-single-number) |
+| [0222-count-complete-tree-nodes](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0268-missing-number) |
 ## Counting
 |  |
