@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [2384-root-equals-sum-of-children](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/2384-root-equals-sum-of-children) |
 ## Design
 |  |
 | ------- |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [2384-root-equals-sum-of-children](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/2384-root-equals-sum-of-children) |
 ## Data Stream
 |  |
 | ------- |
