@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/2384-root-equals-sum-of-children) |
+| [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Design
 |  |
 | ------- |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/2384-root-equals-sum-of-children) |
+| [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Data Stream
 |  |
 | ------- |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## String
 |  |
 | ------- |
@@ -278,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1129-longest-string-chain](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/1129-longest-string-chain) |
+| [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Two Pointers
 |  |
@@ -387,4 +391,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 <!---LeetCode Topics End-->
