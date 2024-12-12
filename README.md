@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0222-count-complete-tree-nodes) |
 | [0257-binary-tree-paths](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0783-search-in-a-binary-search-tree) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0349-intersection-of-two-arrays) |
 | [0354-russian-doll-envelopes](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0354-russian-doll-envelopes) |
 | [0410-split-array-largest-sum](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0410-split-array-largest-sum) |
+| [0450-delete-node-in-a-bst](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0450-delete-node-in-a-bst) |
 | [0493-reverse-pairs](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0783-search-in-a-binary-search-tree](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0783-search-in-a-binary-search-tree) |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0222-count-complete-tree-nodes) |
 | [0257-binary-tree-paths](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0783-search-in-a-binary-search-tree) |
