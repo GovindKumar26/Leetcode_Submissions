@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0907-koko-eating-bananas) |
 | [0967-minimum-falling-path-sum](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0967-minimum-falling-path-sum) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1129-longest-string-chain](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/1129-longest-string-chain) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0789-kth-largest-element-in-a-stream](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [2384-root-equals-sum-of-children](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/2384-root-equals-sum-of-children) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Design
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0789-kth-largest-element-in-a-stream](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0792-binary-search](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0907-koko-eating-bananas) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
@@ -225,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0789-kth-largest-element-in-a-stream](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [2384-root-equals-sum-of-children](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/2384-root-equals-sum-of-children) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Data Stream
@@ -439,4 +443,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->
