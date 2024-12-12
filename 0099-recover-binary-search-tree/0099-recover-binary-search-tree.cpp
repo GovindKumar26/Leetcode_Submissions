@@ -15,7 +15,7 @@ class Solution {
     TreeNode* last;
     TreeNode* prev;
 public:
- vector<int> v;
+ 
     void inorder(TreeNode* root) {
         if(root==NULL) return ;
 
