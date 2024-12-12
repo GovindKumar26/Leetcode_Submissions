@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2047-find-a-peak-element-ii](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/2047-find-a-peak-element-ii) |
+| [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2737-row-with-maximum-ones](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/2737-row-with-maximum-ones) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -352,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0567-permutation-in-string](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0567-permutation-in-string) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 ## Simulation
 |  |
 | ------- |
