@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0215-kth-largest-element-in-an-array) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0074-search-a-2d-matrix) |
+| [0200-number-of-islands](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0967-minimum-falling-path-sum](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0967-minimum-falling-path-sum) |
 | [1559-cherry-pickup-ii](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/1559-cherry-pickup-ii) |
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0200-number-of-islands](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0200-number-of-islands) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0547-number-of-provinces) |
@@ -432,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0547-number-of-provinces) |
 ## Prefix Sum
 |  |
@@ -458,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0110-balanced-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0200-number-of-islands](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0257-binary-tree-paths) |
