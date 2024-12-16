@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2737-row-with-maximum-ones](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/2737-row-with-maximum-ones) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0789-kth-largest-element-in-a-stream](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Binary Tree
 |  |
 | ------- |
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0268-missing-number) |
 | [0368-largest-divisible-subset](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0368-largest-divisible-subset) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Memoization
 |  |
 | ------- |
@@ -375,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-rearrange-array-elements-by-sign](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Divide and Conquer
 |  |
 | ------- |
