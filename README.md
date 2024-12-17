@@ -304,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0662-maximum-width-of-binary-tree) |
+| [0801-is-graph-bipartite](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0801-is-graph-bipartite) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/1036-rotting-oranges) |
@@ -451,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0547-number-of-provinces) |
+| [0801-is-graph-bipartite](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0801-is-graph-bipartite) |
 | [1073-number-of-enclaves](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/1073-number-of-enclaves) |
 ## Prefix Sum
 |  |
@@ -486,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0662-maximum-width-of-binary-tree) |
+| [0801-is-graph-bipartite](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0801-is-graph-bipartite) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/1073-number-of-enclaves) |
@@ -512,4 +515,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0547-number-of-provinces) |
+| [0801-is-graph-bipartite](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0801-is-graph-bipartite) |
 <!---LeetCode Topics End-->
