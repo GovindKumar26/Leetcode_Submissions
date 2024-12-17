@@ -19,23 +19,56 @@ class Solution {
   public:
     // Function to return list containing vertices in Topological order.
     vector<int> topologicalSort(vector<vector<int>>& adj) {
-       int V = adj.size();
-       int vis[V] = {0};
-       stack<int>st;
+         int V = adj.size();
+    //   int vis[V] = {0};
+    //   stack<int>st;
+       
+    //   for(int i=0 ; i<V ; i++){
+    //       if(!vis[i]){
+    //           dfs(i, vis, st, adj);
+    //       }
+    //   }
+       
+    //   vector<int>ans;
+       
+    //   while(!st.empty()){
+    //       ans.push_back(st.top());
+    //       st.pop();
+    //   }
+    //   return ans;
+       
+       
+       
+       // using kahn's algo
+       vector<int> topo;
+       int indegree[V] = {0};
        
        for(int i=0 ; i<V ; i++){
-           if(!vis[i]){
-               dfs(i, vis, st, adj);
+           for(auto it : adj[i]){
+               indegree[it]++;
            }
        }
        
-       vector<int>ans;
+       queue<int>q;
        
-       while(!st.empty()){
-           ans.push_back(st.top());
-           st.pop();
+       for(int i=0 ; i<V ; i++){
+           if(indegree[i]==0){
+               q.push(i);
+           }
        }
-       return ans;
+       
+       while(!q.empty()){
+           int node = q.front();
+           q.pop();
+           
+           topo.push_back(node);
+           
+           for(auto it : adj[node]){
+               indegree[it]--;
+               if(indegree[it]==0) q.push(it);
+           }
+       }
+       return topo;
     }
 };
 
