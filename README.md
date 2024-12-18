@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1129-longest-string-chain](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/1129-longest-string-chain) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1559-cherry-pickup-ii](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/1559-cherry-pickup-ii) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/1646-kth-missing-positive-number) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/1669-minimum-cost-to-cut-a-stick) |
@@ -514,10 +515,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0173-binary-search-tree-iterator](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0173-binary-search-tree-iterator) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Iterator
 |  |
 | ------- |
