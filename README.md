@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0494-target-sum) |
+| [0503-next-greater-element-ii](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0518-coin-change-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0542-01-matrix) |
@@ -547,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0173-binary-search-tree-iterator](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0173-binary-search-tree-iterator) |
+| [0503-next-greater-element-ii](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0503-next-greater-element-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0780-max-chunks-to-make-sorted) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -554,6 +556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0503-next-greater-element-ii](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0503-next-greater-element-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0780-max-chunks-to-make-sorted) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
