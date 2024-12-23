@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2047-find-a-peak-element-ii](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/2047-find-a-peak-element-ii) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/2692-take-gifts-from-the-richest-pile) |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0268-missing-number) |
 | [0368-largest-divisible-subset](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0368-largest-divisible-subset) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Memoization
 |  |
@@ -615,4 +617,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1300-critical-connections-in-a-network](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/1300-critical-connections-in-a-network) |
+## Number Theory
+|  |
+| ------- |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/2106-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
