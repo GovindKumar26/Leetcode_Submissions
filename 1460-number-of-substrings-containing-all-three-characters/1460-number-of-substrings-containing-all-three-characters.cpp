@@ -25,10 +25,9 @@ public:
         int count=0;
         for(int i=0;i<s.size();i++){
             arr[s[i]-'a']=i;
-           
-            int a=min(arr[0],arr[1]);
-            int minind=min(a,arr[2]);
-            count+=(1+minind);
+    
+            int minInd=min(min(arr[0],arr[1]) ,arr[2]);
+            count += 1+minInd;
             
         }
         return count;
