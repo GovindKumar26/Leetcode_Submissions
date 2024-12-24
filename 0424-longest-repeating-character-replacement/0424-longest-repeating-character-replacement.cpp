@@ -43,9 +43,9 @@ public:
             if((r - l - maxi) > k){
                 mp[s[l]]--;
                 maxi = 0;
-                for(auto i : mp){
-                    maxi = max(maxi, i.second);
-                }
+                // for(auto i : mp){
+                //     maxi = max(maxi, i.second);
+                // }
                 l++;
             }
             
