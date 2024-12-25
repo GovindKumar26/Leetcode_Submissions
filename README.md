@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1073-number-of-enclaves](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/1073-number-of-enclaves) |
 | [1129-longest-string-chain](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/1129-longest-string-chain) |
+| [1370-count-number-of-nice-subarrays](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1559-cherry-pickup-ii](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/1559-cherry-pickup-ii) |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0268-missing-number) |
 | [0368-largest-divisible-subset](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0368-largest-divisible-subset) |
 | [0507-perfect-number](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0507-perfect-number) |
+| [1370-count-number-of-nice-subarrays](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/1370-count-number-of-nice-subarrays) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Memoization
@@ -416,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1129-longest-string-chain](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/1129-longest-string-chain) |
+| [1370-count-number-of-nice-subarrays](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2300-construct-string-with-repeat-limit](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/2300-construct-string-with-repeat-limit) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
@@ -446,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0567-permutation-in-string) |
 | [0966-binary-subarrays-with-sum](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/1046-max-consecutive-ones-iii) |
+| [1370-count-number-of-nice-subarrays](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/1966-frequency-of-the-most-frequent-element) |
@@ -540,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0560-subarray-sum-equals-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/1046-max-consecutive-ones-iii) |
+| [1370-count-number-of-nice-subarrays](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Merge Sort
