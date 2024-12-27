@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1129-longest-string-chain](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/1129-longest-string-chain) |
 | [1370-count-number-of-nice-subarrays](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1559-cherry-pickup-ii](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/1559-cherry-pickup-ii) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
