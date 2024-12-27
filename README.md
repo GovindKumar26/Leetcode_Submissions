@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0200-number-of-islands) |
+| [0204-count-primes](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0215-kth-largest-element-in-an-array) |
@@ -315,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0268-missing-number) |
 | [0368-largest-divisible-subset](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0368-largest-divisible-subset) |
 | [0507-perfect-number](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0507-perfect-number) |
@@ -662,6 +664,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0204-count-primes) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2595-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/2595-smallest-value-after-replacing-with-sum-of-prime-factors) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
