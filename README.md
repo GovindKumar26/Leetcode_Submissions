@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0064-minimum-path-sum) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0044-wildcard-matching](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0064-minimum-path-sum) |
@@ -398,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0044-wildcard-matching) |
+| [0055-jump-game](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0410-split-array-largest-sum](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0455-assign-cookies) |
