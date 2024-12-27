@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0721-accounts-merge) |
 | [0780-max-chunks-to-make-sorted](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0780-max-chunks-to-make-sorted) |
 | [0792-binary-search](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0792-binary-search) |
+| [0802-k-th-smallest-prime-fraction](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0854-making-a-large-island](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0854-making-a-large-island) |
 | [0907-koko-eating-bananas](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0907-koko-eating-bananas) |
 | [0966-binary-subarrays-with-sum](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0966-binary-subarrays-with-sum) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0784-insert-into-a-binary-search-tree](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0792-binary-search](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0792-binary-search) |
+| [0802-k-th-smallest-prime-fraction](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0907-koko-eating-bananas](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/1046-max-consecutive-ones-iii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0802-k-th-smallest-prime-fraction](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1753-path-with-minimum-effort](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/1753-path-with-minimum-effort) |
 | [2300-construct-string-with-repeat-limit](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/2300-construct-string-with-repeat-limit) |
@@ -450,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0349-intersection-of-two-arrays) |
 | [0567-permutation-in-string](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0567-permutation-in-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0802-k-th-smallest-prime-fraction](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0802-k-th-smallest-prime-fraction) |
 | [1129-longest-string-chain](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/1129-longest-string-chain) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Sliding Window
@@ -503,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0368-largest-divisible-subset) |
 | [0721-accounts-merge](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0721-accounts-merge) |
 | [0780-max-chunks-to-make-sorted](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0780-max-chunks-to-make-sorted) |
+| [0802-k-th-smallest-prime-fraction](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0802-k-th-smallest-prime-fraction) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1129-longest-string-chain](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/1129-longest-string-chain) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/1669-minimum-cost-to-cut-a-stick) |
