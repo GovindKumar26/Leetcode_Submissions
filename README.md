@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2106-find-greatest-common-divisor-of-array](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2609-distinct-prime-factors-of-product-of-array](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2737-row-with-maximum-ones](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/2737-row-with-maximum-ones) |
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/1370-count-number-of-nice-subarrays) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2595-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/2595-smallest-value-after-replacing-with-sum-of-prime-factors) |
+| [2609-distinct-prime-factors-of-product-of-array](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Memoization
 |  |
@@ -429,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2300-construct-string-with-repeat-limit](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/2300-construct-string-with-repeat-limit) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
+| [2609-distinct-prime-factors-of-product-of-array](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Two Pointers
@@ -667,6 +670,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0204-count-primes) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2595-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/2595-smallest-value-after-replacing-with-sum-of-prime-factors) |
+| [2609-distinct-prime-factors-of-product-of-array](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 ## Enumeration
 |  |
 | ------- |
