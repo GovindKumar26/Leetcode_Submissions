@@ -392,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0044-wildcard-matching](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0115-distinct-subsequences) |
@@ -470,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0088-merge-sorted-array) |
@@ -718,4 +720,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0274-h-index) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
