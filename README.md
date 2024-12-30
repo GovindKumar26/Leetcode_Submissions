@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1559-cherry-pickup-ii](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/1559-cherry-pickup-ii) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2562-count-ways-to-build-good-strings](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/2562-count-ways-to-build-good-strings) |
 ## Matrix
 |  |
 | ------- |
