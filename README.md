@@ -412,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1250-longest-common-subsequence](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2300-construct-string-with-repeat-limit](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/2300-construct-string-with-repeat-limit) |
 ## Greedy
 |  |
@@ -603,6 +604,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/1370-count-number-of-nice-subarrays) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Merge Sort
