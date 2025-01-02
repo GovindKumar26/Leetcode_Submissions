@@ -401,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0127-word-ladder) |
+| [0205-isomorphic-strings](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0205-isomorphic-strings) |
 | [0257-binary-tree-paths](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0424-longest-repeating-character-replacement](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0424-longest-repeating-character-replacement) |
@@ -449,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0349-intersection-of-two-arrays) |
