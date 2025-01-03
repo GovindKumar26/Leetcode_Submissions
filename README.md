@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0173-binary-search-tree-iterator](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0173-binary-search-tree-iterator) |
 | [0222-count-complete-tree-nodes](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0222-count-complete-tree-nodes) |
+| [0226-invert-binary-tree](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0257-binary-tree-paths) |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0173-binary-search-tree-iterator](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0173-binary-search-tree-iterator) |
 | [0222-count-complete-tree-nodes](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0222-count-complete-tree-nodes) |
+| [0226-invert-binary-tree](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0257-binary-tree-paths) |
@@ -368,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0210-course-schedule-ii) |
+| [0226-invert-binary-tree](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0322-coin-change) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -632,6 +635,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0210-course-schedule-ii) |
+| [0226-invert-binary-tree](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0257-binary-tree-paths) |
