@@ -351,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2106-find-greatest-common-divisor-of-array](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2595-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/2595-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/2609-distinct-prime-factors-of-product-of-array) |
+| [2610-closest-prime-numbers-in-range](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/2610-closest-prime-numbers-in-range) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Memoization
 |  |
@@ -727,6 +728,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2106-find-greatest-common-divisor-of-array](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2595-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/2595-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/2609-distinct-prime-factors-of-product-of-array) |
+| [2610-closest-prime-numbers-in-range](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/2610-closest-prime-numbers-in-range) |
 ## Enumeration
 |  |
 | ------- |
