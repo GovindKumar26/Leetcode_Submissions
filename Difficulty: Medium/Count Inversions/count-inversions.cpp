@@ -1,87 +1,41 @@
-//{ Driver Code Starts
-#include <bits/stdc++.h>
-using namespace std;
-
-
-// } Driver Code Ends
-
-
-long long cnt = 0;
 class Solution {
   public:
-    void merge(vector<long long> &arr, int low, int mid, int high) {
-    vector<int> temp; // temporary array
-    int left = low;      // starting index of left half of arr
-    int right = mid + 1;   // starting index of right half of arr
+  
+  int merge(vector<int>&nums,int s,int mid,int e){
+      int cnt=0;
+      
+        vector<int>res(e-s+1); int i=s,j=mid+1,k=0;
 
-    //storing elements in the temporary array in a sorted manner//
-
-    while (left <= mid && right <= high) {
-        if (arr[left] <= arr[right]) {
-            temp.push_back(arr[left]);
-            left++;
+        while(i<=mid && j<=e){
+            if(nums[i]<=nums[j]) { res[k++] = nums[i++]; }
+            else {res[k++] = nums[j++];cnt += mid-i+1 ;}
         }
-        else {
-            temp.push_back(arr[right]);
-            right++;
-            cnt += (mid - left + 1);
+
+        while(i<=mid)  res[k++] = nums[i++];
+        while(j<=e)  res[k++] = nums[j++];
+
+        for(int i = 0;i<res.size();i++){
+            nums[i+s] = res[i];
         }
+        
+        return cnt;
     }
+        
+        
+        int mergeSort(vector<int>&nums,int s,int e){
+            int cnt=0;
+          if(s>=e) return cnt;
 
-    // if elements on the left half are still left //
+          int mid = s + (e-s)/2;
+         cnt+= mergeSort(nums,s,mid);
+         cnt+= mergeSort(nums,mid+1,e);
+         cnt+= merge(nums,s,mid,e);
+         return cnt;
+      }
 
-    while (left <= mid) {
-        temp.push_back(arr[left]);
-        left++;
-    }
 
-    //  if elements on the right half are still left //
-    while (right <= high) {
-        temp.push_back(arr[right]);
-        right++;
-    }
-
-    // transfering all elements from temporary to arr //
-    for (int i = low; i <= high; i++) {
-        arr[i] = temp[i - low];
-    }
-}
-
-void mergeSort(vector<long long> &arr, int low, int high) {
-    if (low >= high) return;
-    int mid = (low + high) / 2 ;
-    mergeSort(arr, low, mid);  // left half
-    mergeSort(arr, mid + 1, high); // right half
-    merge(arr, low, mid, high);  // merging sorted halves
-}
-    long long int inversionCount(vector<long long> &arr) {
-        cnt = 0;
-       mergeSort(arr, 0, arr.size()-1);
-       return cnt;
+    int inversionCount(vector<int> &arr) {
+       return mergeSort(arr, 0, arr.size()-1);
+        
     }
 };
-
-//{ Driver Code Starts.
-
-int main() {
-
-    long long T;
-    cin >> T;
-    cin.ignore();
-    while (T--) {
-        int n;
-        vector<long long> a, b;
-        string input;
-        getline(cin, input);
-        stringstream ss(input);
-        long long num;
-        while (ss >> num)
-            a.push_back(num);
-        Solution obj;
-        cout << obj.inversionCount(a) << endl;
-    }
-
-    return 0;
-}
-
-// } Driver Code Ends
