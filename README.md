@@ -418,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0516-longest-palindromic-subsequence) |
 | [0567-permutation-in-string](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0567-permutation-in-string) |
 | [0721-accounts-merge](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0721-accounts-merge) |
+| [0812-rotate-string](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0812-rotate-string) |
 | [1129-longest-string-chain](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/1129-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/1250-longest-common-subsequence) |
@@ -749,6 +750,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0812-rotate-string](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0812-rotate-string) |
 ## Trie
 |  |
 | ------- |
