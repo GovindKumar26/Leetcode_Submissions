@@ -341,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0062-unique-paths) |
@@ -404,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -458,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
