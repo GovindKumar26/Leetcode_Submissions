@@ -1,43 +1,6 @@
-//{ Driver Code Starts
-// Initial Template for C++
-#include <bits/stdc++.h>
-using namespace std;
-
-struct Node {
-    int data;
-    struct Node* next;
-    struct Node* prev;
-};
-
-void push(struct Node** head_ref, int new_data) {
-    struct Node* new_node = (struct Node*)malloc(sizeof(struct Node));
-
-    new_node->data = new_data;
-
-    new_node->prev = NULL;
-
-    new_node->next = (*head_ref);
-
-    if ((*head_ref) != NULL) (*head_ref)->prev = new_node;
-
-    (*head_ref) = new_node;
-}
-
-void printList(struct Node* head) {
-    if (head == NULL) cout << -1;
-
-    while (head != NULL) {
-        cout << head->data << " ";
-        head = head->next;
-    }
-}
-
-
-// } Driver Code Ends
 // User function Template for C++
 
-
-/* a Node of the doubly linked list 
+/* a Node of the doubly linked list
 struct Node
 {
   int data;
@@ -49,83 +12,29 @@ struct Node
 class Solution {
   public:
     void deleteAllOccurOfX(struct Node** head_ref, int x) {
-       if (*head_ref == nullptr) return; // Handle empty list
-        
-       
-       Node* temp = *head_ref;
-        // Traverse the list
-    while (temp != nullptr) {
-        if (temp->data == x) {
-            // If the node to be deleted is the head
-            if (temp == *head_ref) {
-                *head_ref = temp->next;
-                if (*head_ref != nullptr) {
-                    (*head_ref)->prev = nullptr;
-                }
-                delete temp;
-                temp = *head_ref; // Reset temp to the new head
-            }
-            // If the node to be deleted is not the head
-            else {
-                temp->prev->next = temp->next;
-                if (temp->next != nullptr) {
-                    temp->next->prev = temp->prev;
-                }
-                Node* toDelete = temp;
-                temp = temp->next; // Move to the next node
+        // Write your code here
+         Node* prev1 = NULL;
+        Node* curr = *head_ref;
+        Node* forward;
+
+        while(curr) {
+            prev1 = curr->prev;
+            forward = curr->next;
+
+            if(curr->data==x) {
+              if(prev1)  prev1->next = forward;
+              else *head_ref = forward;
+               if(forward) forward->prev = prev1;
+                Node* toDelete = curr;
+                 curr=curr->next;
                 delete toDelete;
+            } 
+            else {
+                 curr=curr->next;
             }
-        } else {
-            temp = temp->next; // Move to the next node
+           
         }
-    }
+
+       
     }
 };
-
-//{ Driver Code Starts.
-
-int main() {
-    int t = 1;
-    cin >> t;
-
-    // freopen ("output_gfg.txt", "w", stdout);
-
-    while (t--) {
-        // Input
-        Node* head = new Node();
-        head = NULL;
-
-        int n;
-        cin >> n;
-
-        vector<int> inp(n);
-
-        for (int i = 0; i < n; i++) {
-            int val;
-            cin >> val;
-            // push(&head,val);
-            inp[i] = val;
-        }
-        for (int i = n - 1; i >= 0; i--) {
-            push(&head, inp[i]);
-        }
-        int key;
-        cin >> key;
-        // printList(head);
-        // cout << endl;
-
-        Solution obj;
-
-        obj.deleteAllOccurOfX(&head, key);
-        printList(head);
-        cout << endl;
-
-        // cout << "\n~\n";
-    
-cout << "~" << "\n";
-}
-    // fclose(stdout);
-
-    return 0;
-}
-// } Driver Code Ends
