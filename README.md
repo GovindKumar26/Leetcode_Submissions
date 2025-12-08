@@ -361,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0368-largest-divisible-subset) |
 | [0507-perfect-number](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0507-perfect-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/1370-count-number-of-nice-subarrays) |
+| [1925-count-square-sum-triples](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/1925-count-square-sum-triples) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2595-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/2595-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/2609-distinct-prime-factors-of-product-of-array) |
@@ -767,6 +768,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0204-count-primes) |
+| [1925-count-square-sum-triples](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/1925-count-square-sum-triples) |
 ## Counting Sort
 |  |
 | ------- |
