@@ -791,4 +791,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1129-shortest-path-with-alternating-colors](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/1129-shortest-path-with-alternating-colors) |
+| [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
 <!---LeetCode Topics End-->
