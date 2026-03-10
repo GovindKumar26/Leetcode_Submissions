@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1962-single-threaded-cpu](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/1962-single-threaded-cpu) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2047-find-a-peak-element-ii](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/2047-find-a-peak-element-ii) |
+| [2101-detonate-the-maximum-bombs](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/2101-detonate-the-maximum-bombs) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -362,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0507-perfect-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1925-count-square-sum-triples](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/1925-count-square-sum-triples) |
+| [2101-detonate-the-maximum-bombs](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/2101-detonate-the-maximum-bombs) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2595-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/2595-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/2609-distinct-prime-factors-of-product-of-array) |
@@ -405,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1129-shortest-path-with-alternating-colors](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/1129-shortest-path-with-alternating-colors) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1753-path-with-minimum-effort](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/1753-path-with-minimum-effort) |
+| [2101-detonate-the-maximum-bombs](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/2101-detonate-the-maximum-bombs) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
@@ -689,6 +692,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1300-critical-connections-in-a-network](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/1300-critical-connections-in-a-network) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1753-path-with-minimum-effort](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/1753-path-with-minimum-effort) |
+| [2101-detonate-the-maximum-bombs](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/2101-detonate-the-maximum-bombs) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/3058-maximum-number-of-k-divisible-components) |
@@ -792,4 +796,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1129-shortest-path-with-alternating-colors](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/1129-shortest-path-with-alternating-colors) |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
+| [2101-detonate-the-maximum-bombs](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/2101-detonate-the-maximum-bombs) |
+## Geometry
+|  |
+| ------- |
+| [2101-detonate-the-maximum-bombs](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/2101-detonate-the-maximum-bombs) |
 <!---LeetCode Topics End-->
