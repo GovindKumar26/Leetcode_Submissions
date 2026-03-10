@@ -402,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/1073-number-of-enclaves) |
+| [1129-shortest-path-with-alternating-colors](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/1129-shortest-path-with-alternating-colors) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1753-path-with-minimum-effort](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/1753-path-with-minimum-effort) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
@@ -786,4 +787,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0451-sort-characters-by-frequency) |
+## Graph Theory
+|  |
+| ------- |
+| [1129-shortest-path-with-alternating-colors](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/1129-shortest-path-with-alternating-colors) |
 <!---LeetCode Topics End-->
