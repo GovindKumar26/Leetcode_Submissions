@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2047-find-a-peak-element-ii](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/2047-find-a-peak-element-ii) |
 | [2101-detonate-the-maximum-bombs](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/2101-detonate-the-maximum-bombs) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2358-number-of-ways-to-split-array](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/2358-number-of-ways-to-split-array) |
@@ -444,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2300-construct-string-with-repeat-limit](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/2300-construct-string-with-repeat-limit) |
 ## Greedy
 |  |
@@ -500,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1129-longest-string-chain](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/1129-longest-string-chain) |
 | [1370-count-number-of-nice-subarrays](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2300-construct-string-with-repeat-limit](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/2300-construct-string-with-repeat-limit) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/2609-distinct-prime-factors-of-product-of-array) |
@@ -751,6 +754,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0210-course-schedule-ii) |
 | [0820-find-eventual-safe-states](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/0820-find-eventual-safe-states) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 ## Shortest Path
 |  |
 | ------- |
@@ -797,6 +801,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1129-shortest-path-with-alternating-colors](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/1129-shortest-path-with-alternating-colors) |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
 | [2101-detonate-the-maximum-bombs](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/2101-detonate-the-maximum-bombs) |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/GovindKumar26/Leetcode_Submissions/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 ## Geometry
 |  |
 | ------- |
